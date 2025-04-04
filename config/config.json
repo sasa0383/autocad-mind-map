@@ -1,0 +1,12 @@
+{
+    "layout": {
+      "horizontal_spacing": 100,
+      "vertical_spacing": 500
+    },
+    "colors": {
+      "node": 7,
+      "text": 5,
+      "connection": 3
+    }
+  }
+  

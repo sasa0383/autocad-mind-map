@@ -1,0 +1,153 @@
+{
+  "Unit 1: Introduction to Machine Learning": {
+    "1.1 Classification & Regression": {
+      "Q1: Classification problems fall under the category of?": {
+        "1. Supervised and unsupervised learning": {},
+        "2. Reinforcement learning": {},
+        "3. Supervised learning ✔️": {},
+        "4. Unsupervised learning": {}
+      },
+      "Q2: Which are the high and low bounds for the F-Score?": {
+        "1. (-1,0)": {},
+        "2. [0,1]": {},
+        "3. (0,1) ✔️": {},
+        "4. [-1,1]": {}
+      },
+      "Q3: Which metric evaluates classification performance by combining precision and recall?": {
+        "1. Recall": {},
+        "2. F-Score ✔️": {},
+        "3. Confusion matrix": {},
+        "4. Accuracy": {}
+      },
+      "Q4: Which represents a regression problem?": {
+        "1. Spam email detection": {},
+        "2. Forecasting electricity demand ✔️": {},
+        "3. Identifying handwritten digits": {},
+        "4. Classifying dog breeds": {}
+      },
+      "Q5: What is a common sign of overfitting?": {
+        "1. High bias": {},
+        "2. Low accuracy on training data": {},
+        "3. Low accuracy on test data ✔️": {},
+        "4. Small model size": {}
+      },
+      "Q6: Which metric is commonly used for regression problems?": {
+        "1. Accuracy": {},
+        "2. Mean Squared Error ✔️": {},
+        "3. Confusion Matrix": {},
+        "4. Precision": {}
+      },
+      "Q7: Precision is defined as?": {
+        "1. TP / (TP + FP) ✔️": {},
+        "2. TP / (TP + FN)": {},
+        "3. TP / (TP + TN)": {},
+        "4. TN / (TN + FP)": {}
+      },
+      "Q8: A classification model with 100% training accuracy but 60% test accuracy is?": {
+        "1. Underfitting": {},
+        "2. Well-generalized": {},
+        "3. Balanced": {},
+        "4. Overfitting ✔️": {}
+      }
+    },
+
+    "1.2 Machine Learning Paradigms": {
+      "Q1: Semi-supervised learning combines aspects of?": {
+        "1. Supervised and reinforcement learning": {},
+        "2. Supervised and unsupervised learning ✔️": {},
+        "3. Unsupervised and reinforcement learning": {},
+        "4. Reinforcement learning and active learning": {}
+      },
+      "Q2: Grouping news articles according to similarity can be solved using?": {
+        "1. Classification": {},
+        "2. Reinforcement learning": {},
+        "3. Clustering ✔️": {},
+        "4. Regression": {}
+      },
+      "Q3: Which paradigm requires only input data without output labels?": {
+        "1. Supervised learning": {},
+        "2. Unsupervised learning ✔️": {},
+        "3. Reinforcement learning": {},
+        "4. Semi-supervised learning": {}
+      },
+      "Q4: Which task is best suited for supervised learning?": {
+        "1. Dimensionality reduction": {},
+        "2. Pattern clustering": {},
+        "3. Stock price prediction ✔️": {},
+        "4. Grouping customers by habits": {}
+      },
+      "Q5: Which is an application of supervised learning?": {
+        "1. Language translation ✔️": {},
+        "2. Clustering news articles": {},
+        "3. Image segmentation": {},
+        "4. Anomaly detection": {}
+      },
+      "Q6: Which learning paradigm uses reward signals to learn optimal behavior?": {
+        "1. Supervised learning": {},
+        "2. Unsupervised learning": {},
+        "3. Reinforcement learning ✔️": {},
+        "4. Semi-supervised learning": {}
+      }
+    },
+
+    "1.3 Reinforcement Learning": {
+      "Q1: Which is a component of reinforcement learning?": {
+        "1. Trainer": {},
+        "2. Optimizer": {},
+        "3. Agent ✔️": {},
+        "4. Teacher": {}
+      },
+      "Q2: In reinforcement learning, actions are evaluated using?": {
+        "1. Dataset": {},
+        "2. Gradient": {},
+        "3. Reward ✔️": {},
+        "4. Loss": {}
+      },
+      "Q3: What separates model-based from model-free RL?": {
+        "1. Type of reward": {},
+        "2. Strategy used": {},
+        "3. Knowledge of environment ✔️": {},
+        "4. Use of labels": {}
+      },
+      "Q4: An agent learns by interacting with?": {
+        "1. Dataset": {},
+        "2. Hyperparameters": {},
+        "3. Environment ✔️": {},
+        "4. Optimizer": {}
+      }
+    },
+
+    "1.4 General Concepts & Summary": {
+      "Q1: Normalized data are centered at __ and have unit standard deviation?": {
+        "1. -1": {},
+        "2. 1": {},
+        "3. 10": {},
+        "4. 0 ✔️": {}
+      },
+      "Q2: Which is NOT a machine learning paradigm?": {
+        "1. Supervised learning": {},
+        "2. Unsupervised learning": {},
+        "3. Self-learning ✔️": {},
+        "4. Reinforcement learning": {}
+      },
+      "Q3: What is the goal of machine learning?": {
+        "1. Store all possible outcomes": {},
+        "2. Find patterns in input features": {},
+        "3. Predict outcomes based on data ✔️": {},
+        "4. Avoid human decision making": {}
+      },
+      "Q4: In unsupervised learning, the training dataset contains?": {
+        "1. Labels only": {},
+        "2. Features only ✔️": {},
+        "3. Labels and features": {},
+        "4. Neither": {}
+      },
+      "Q5: A supervised learning algorithm uses?": {
+        "1. Input-only data": {},
+        "2. Random samples": {},
+        "3. Feedback from user": {},
+        "4. Input-output pairs ✔️": {}
+      }
+    }
+  }
+}
